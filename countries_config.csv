@@ -1,0 +1,21 @@
+Category,Country,Include
+Secured,China,Yes
+Secured,India,Yes
+Secured,UAE,Yes
+Secured,Malaysia,Yes
+Secured,Bahrain,Yes
+Unsecured,China,Yes
+Unsecured,India,Yes
+Unsecured,UAE,Yes
+Unsecured,Malaysia,Yes
+Unsecured,Bahrain,Yes
+SME Banking,China,Yes
+SME Banking,India,Yes
+SME Banking,UAE,Yes
+SME Banking,Malaysia,Yes
+SME Banking,Bahrain,Yes
+Wealth Lending,China,Yes
+Wealth Lending,India,Yes
+Wealth Lending,UAE,Yes
+Wealth Lending,Malaysia,Yes
+Wealth Lending,Bahrain,Yes
