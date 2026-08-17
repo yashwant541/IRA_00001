@@ -1,23 +1,216 @@
-We want to refurbish the webapp here-
-
-We will have every segment in the UI -
-
-1) We will have every thing as a page - and then a sidebar to toggle through the pages as well.
-
-Page for login - We need to put the PSID -
-
-And then once done - we go to the next page - to upload all the datasets.
-
-We then show the details of the missing things if found -
-
-1) Show all the tables - input which are required and show tick or wrong if found or not.
-
-2) Show if all the tables have the same columns - except for tables - which are Date columns. For example - in Other tables - we need to make sure all the tables have the same schema as before - the columns can be ordered differently but the schema should be same. If Country is the column - it has to be there. If not Found - Mention the table name and the column name - as not found.
-
-3) Once everything is right - then we go for the run.
-
-4) Then we show the Assessment Output finally. We show the download output button there to download the output.
-
-5) Should be the page - where the user can click to add the Final Inherent Credit Risk Assessment for every Assessment output - Product and Country.
-
-Make sure you make it user friendly and modern Light UI.
+Bahrain
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+Bangladesh
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+Botswana
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+Brunei
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+China
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+ME
+Falklands
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+Gambia
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+Ghana
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+Hong Kong
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+ME
+PVB
+IN SCILL
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+India
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+ME
+Indonesia
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+Jersey
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+PVB
+Kenya
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+ME
+Korea SCBK
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+ME
+Malaysia
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+ME
+Nepal
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+Nigeria
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+Oman
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+Pakistan
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+Qatar
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+Regional Adj ASEAN & SA
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+Regional Adj Europe & Amer
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+Regional Adj GCH & NEA
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+Singapore
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+ME
+PVB
+South Africa
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+Sri Lanka
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+Taiwan
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+Tanzania
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+UAE
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+PVB
+Uganda
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+UK
+Private Banking
+Vietnam
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+ME
+Zambia
+Consumer Secured
+Consumer Unsecured
+Other
+SME Banking
+Wealth Management
+Mox - HK
+Consumer Unsecured
+Trust Bank
+Consumer Unsecured
